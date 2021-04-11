@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\WpfApp Calculator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\WpfApp Calculator_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\WpfApp Calculator_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\WpfApp Calculator.g.resources
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\WpfApp Calculator.pdb
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\bin\Debug\WpfApp Calculator.exe.config
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\bin\Debug\WpfApp Calculator.exe
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\bin\Debug\WpfApp Calculator.pdb
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\WpfApp_Calculator.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\WpfApp Calculator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\WpfApp Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\WpfApp Calculator.exe
